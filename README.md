@@ -13,7 +13,7 @@
 ---
 
 ## 📋目录
-1. [为什么选 ChatGPT 中文版？](#为什么选-ChatGPT-中文版)
+1. [为什么选 ChatGPT 中文版？](#为什么选-chatgpt中文版)
 2. [国内推荐的 ChatGPT 镜像网站](#国内推荐的-ChatGPT-镜像网站)
 3. [ChatGPT官网与 ChatGPT中文版的区别](#ChatGPT-官网与中文版的差异)
 4. [快速开始使用 ChatGPT 中文版的方法](#快速开始使用-ChatGPT-中文版的方法)
@@ -23,7 +23,7 @@
 
 ---
 
-## 1. 为什么选 ChatGPT 中文版？
+## 1. 为什么选 ChatGPT中文版？
 
 ChatGPT 中文版是 OpenAI 的 ChatGPT 模型的本地化版本，专门为中文用户设计，提供流畅、精准的对话体验。
 
