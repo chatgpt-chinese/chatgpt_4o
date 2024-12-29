@@ -1,7 +1,7 @@
 # 【ChatGPT 中文版】国内使用指南（支持GPT-4、4o 和 o1）【12月更新】
 
 > **最新更新：2024年12月29日**
-> **作者：chatgpt-chinese**  
+> **作者：chatgpt-chinese** 
 
 【**ChatGPT 中文版**】国内使用指南：**无需翻墙，畅享 GPT-4**~
 
